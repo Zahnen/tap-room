@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/tap-room/static/css/main.1fc973a9.chunk.css",
-    "main.js": "/tap-room/static/js/main.cd3ed603.chunk.js",
-    "main.js.map": "/tap-room/static/js/main.cd3ed603.chunk.js.map",
-    "runtime-main.js": "/tap-room/static/js/runtime-main.8b08c148.js",
-    "runtime-main.js.map": "/tap-room/static/js/runtime-main.8b08c148.js.map",
+    "main.css": "/tap-room/static/css/main.64ca1e49.chunk.css",
+    "main.js": "/tap-room/static/js/main.141cbcc5.chunk.js",
+    "main.js.map": "/tap-room/static/js/main.141cbcc5.chunk.js.map",
+    "runtime-main.js": "/tap-room/static/js/runtime-main.7697c672.js",
+    "runtime-main.js.map": "/tap-room/static/js/runtime-main.7697c672.js.map",
     "static/css/2.87a9c7a2.chunk.css": "/tap-room/static/css/2.87a9c7a2.chunk.css",
-    "static/js/2.15a399b4.chunk.js": "/tap-room/static/js/2.15a399b4.chunk.js",
-    "static/js/2.15a399b4.chunk.js.map": "/tap-room/static/js/2.15a399b4.chunk.js.map",
-    "static/js/3.2c630d5b.chunk.js": "/tap-room/static/js/3.2c630d5b.chunk.js",
-    "static/js/3.2c630d5b.chunk.js.map": "/tap-room/static/js/3.2c630d5b.chunk.js.map",
+    "static/js/2.73af3df1.chunk.js": "/tap-room/static/js/2.73af3df1.chunk.js",
+    "static/js/2.73af3df1.chunk.js.map": "/tap-room/static/js/2.73af3df1.chunk.js.map",
+    "static/js/3.c1ef32a6.chunk.js": "/tap-room/static/js/3.c1ef32a6.chunk.js",
+    "static/js/3.c1ef32a6.chunk.js.map": "/tap-room/static/js/3.c1ef32a6.chunk.js.map",
     "index.html": "/tap-room/index.html",
-    "precache-manifest.bda7d002aeb665c7800385daca1a3e1b.js": "/tap-room/precache-manifest.bda7d002aeb665c7800385daca1a3e1b.js",
+    "precache-manifest.697272ab1d2da18929271420706f7b56.js": "/tap-room/precache-manifest.697272ab1d2da18929271420706f7b56.js",
     "service-worker.js": "/tap-room/service-worker.js",
     "static/css/2.87a9c7a2.chunk.css.map": "/tap-room/static/css/2.87a9c7a2.chunk.css.map",
-    "static/css/main.1fc973a9.chunk.css.map": "/tap-room/static/css/main.1fc973a9.chunk.css.map",
-    "static/media/HopperLogo.svg": "/tap-room/static/media/HopperLogo.a32faeca.svg",
-    "static/media/KegEmpty.svg": "/tap-room/static/media/KegEmpty.55ade0bd.svg",
-    "static/media/KegFull.svg": "/tap-room/static/media/KegFull.c94cea0c.svg",
-    "static/media/KegLow.svg": "/tap-room/static/media/KegLow.0920ae06.svg"
+    "static/css/main.64ca1e49.chunk.css.map": "/tap-room/static/css/main.64ca1e49.chunk.css.map",
+    "static/media/HopperLogo.svg": "/tap-room/static/media/HopperLogo.d8096512.svg",
+    "static/media/KegEmpty.svg": "/tap-room/static/media/KegEmpty.90935825.svg",
+    "static/media/KegFull.svg": "/tap-room/static/media/KegFull.845c8926.svg",
+    "static/media/KegLow.svg": "/tap-room/static/media/KegLow.deb589e1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8b08c148.js",
+    "static/js/runtime-main.7697c672.js",
     "static/css/2.87a9c7a2.chunk.css",
-    "static/js/2.15a399b4.chunk.js",
-    "static/css/main.1fc973a9.chunk.css",
-    "static/js/main.cd3ed603.chunk.js"
+    "static/js/2.73af3df1.chunk.js",
+    "static/css/main.64ca1e49.chunk.css",
+    "static/js/main.141cbcc5.chunk.js"
   ]
 }
